@@ -47,8 +47,8 @@ create an account on the ChatGPT webpage.
 8.  You now have a ChatGPT account and can begin entering prompts to
     strategically generate content from the tool's responses.
     
-    ![ChatGPT Signup Process](./test.gif)
-
+signup.gif    
+    
 # Using ChatGPT to generate content
 
 For our purposes of describing the ways ChatGPT can be used as a
@@ -61,7 +61,7 @@ not sure what the procedure will look like.
 
 Start by asking the tool -- *What is an omelet?*
 
-(Image? -- What is an omelet)
+What is an omelet.jpg
 
 > Note: Depending on the question, and the chat history, you may get a
 > different response than your colleague.
@@ -69,7 +69,7 @@ Start by asking the tool -- *What is an omelet?*
 Based on the first response, probe further -- *What ingredients and
 tools will I need?*
 
-(Image? -- What ingredients and tools)
+What ingredients and tools.jpg
 
 In the image above, the tool provides instructions as well. But what if
 your document is more specifically for making an omelet over a campfire?
@@ -77,7 +77,7 @@ your document is more specifically for making an omelet over a campfire?
 Get more specific -- *How do I make an omelet over a campfire with a
 cast iron skillet?*
 
-(Image? -- Campfire omelet instructions)
+Campfire omelet instructions.jpg
 
 The more specific and tailored your prompt is, the more specific and
 applicable the tool's response will be. This is the true power of
@@ -97,13 +97,14 @@ You cannot rely on the tool to analyze your audience for you. ChatGPT
 and tools like it will generate as much content as you want, but not all
 of it will be relevant or even correct.
 
-(Image? -- What else)
+What else.jpg
+
 
 Think about what your audience might want to know from a jobs-to-be-done
 perspective. Procedural tips for cooking the omelet may be helpful. What
 about the campfire?
 
-(Image? -- Campfire tips)
+Campfire tips.jpg
 
 It's up to you as the technical writer to curate the information so that
 your audience has everything they need and want, but they're not
