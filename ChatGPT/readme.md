@@ -139,9 +139,3 @@ know. Try researching a topic that's interesting to you and use your
 findings to write something useful to you or your peers. Use the
 strategies above to probe and develop your ideas into a cohesive
 deliverable.
-
-<style>
-  .header {
-    display: none;
-  }
-</style>
